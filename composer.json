@@ -1,11 +1,11 @@
 {
-    "name": "dizatech/rayanpag_ipg",
+    "name": "dizatech/rayanpay_ipg",
     "description": "Rayanpay payment gateway for Laravel",
     "type": "library",
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
-            "Dizatech\\RayanpagIpg\\": "src/"
+            "Dizatech\\RayanpayIpg\\": "src/"
         }
     },
     "authors": [
